@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Lucas!
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning how to program on python
-- 💞️ I’m looking to collaborate with the community by sharing my knowledge and learning progress over time
+
+-I’m currently learning python
+
+-I’m looking to collaborate with the community by sharing my knowledge and learning progress over time
+
 - 📫 How to reach me > https://www.linkedin.com/in/lucas-portugal-
 
 <!---
