@@ -1,39 +1,43 @@
-<h2 align="left">Hi 👋! My name is Lucas and I'm a Ethical Hacker, from Brazil.</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kermexx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kermexx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!--título-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-###
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Lucas! A passionate Ethical Hacker student from Brazil.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+  - 🌱 I’m currently studying Ethical Hacking at FIAP
 
-###
+  - 🔭 I am looking for my first job opportunity. 
+</p>
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWg1b2EwOWlqbGwzbWxhZGNsZXlhNGh3Z3p6cmcwNnh2ZzloMHNtZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCSZp478OpzSMpAAFc/giphy.gif"  />
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
 
-###
+  - 💬 I am 19 years old, currently living in Brazil. I have fluency in English. I'm also an energetic person, which helped me develop important skills such as creativity, communication, marketing, analytical capability and another skills.
 
-<div align="left">
-  <a href="lucas.portugal04@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/lucas-portugal-" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
 
-###
+<!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-portugal-)
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kermexx/Kermexx/output/snake.svg" alt="Snake animation" />
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=Kermexx&show_icons=true&theme=gotham)
 
-###
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
+
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   
